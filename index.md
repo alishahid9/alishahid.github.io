@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 ---
-title: Who is Ali Shahid
----
 
 # The Unbroken Saga of Ali Shahid
 
