@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Home
+---
+---
 title: Who is Ali Shahid
 ---
 
