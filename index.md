@@ -2,6 +2,7 @@
 layout: default
 title: The Unbroken Saga of Ali Shahid
 ---
+![founder ali (2)](https://github.com/user-attachments/assets/2e74afd1-c967-4c04-978f-63121d891759)
 
 # The Unbroken Saga of Ali Shahid
 
@@ -49,7 +50,7 @@ When his father’s heart weakened, Ali returned to Saudi Arabia, a wanderer wit
 
 In 2014, **Hira Malik** blazed into his life—a woman of fire and fortitude. Their love was a tempest, twice spurned by her kin, yet Ali’s will bent the stars to their favor. They wed in December 2014, their Sri Lankan honeymoon a tapestry of emerald seas and whispered vows. Hira joined him in Saudi Arabia, and in November 2015, their son **Ifrahim** arrived—a spark of joy. Two daughters followed, born amidst the shadowed years of a global pandemic, each a light in their growing constellation.
 
-> _![Ali and Hira on their wedding day](path/to/wedding-photo.jpg)_
+![founders 2 (1)](https://github.com/user-attachments/assets/04c24053-f801-40dd-9f64-f0de0b993108)
 
 ---
 
