@@ -2,7 +2,12 @@
 layout: default
 title: The Unbroken Saga of Ali Shahid
 ---
-![founder ali (2)](https://github.com/user-attachments/assets/2e74afd1-c967-4c04-978f-63121d891759)
+<img
+  src="https://github.com/user-attachments/assets/2e74afd1-c967-4c04-978f-63121d891759"
+  alt="Ali Shahid headshot"
+  width="300"
+/>
+
 
 # The Unbroken Saga of Ali Shahid
 
