@@ -72,7 +72,7 @@ In 2021, Ali, Hira, and their trio of stars crossed oceans to Canada—a land of
 
 ## Food Mamba: A Serpent of Triumph
 
-From this chaos rose **Food Mamba**, birthed in 2024 by Ali and Hira’s unyielding hands. Bootstrapped with their own sweat and soul, it was a women‑led marvel—a tech serpent slithering through Toronto’s corporate dining scene. With 200 vendors bound to its coils, it served over 1,000 orders to 300 clients by 2025, its platform a spell of efficiency cast beyond Canada’s shores. Titans like Amazon and EY bowed to its brilliance, while dreams of Vancouver, Calgary, and Ottawa shimmered on the horizon.
+From this chaos rose **Food Mamba**, birthed in 2024 by Ali and Hira’s unyielding hands. Bootstrapped with their own sweat and soul, it was a women‑led marvel—a tech serpent slithering through Toronto’s corporate dining scene. With 200 vendors bound to its coils, it served over 1,000 orders to 300 clients by 2025, its platform a spell of efficiency cast beyond Canada’s shores. 
 
 Ali’s vision was vast—an empire where artificial intelligence would weave through event planning, conjuring feasts that left mortals awestruck. Venture capital loomed, a golden key to unlock Food Mamba’s reach into every Canadian hearth. It was no mere business, but a revolution—a dance of taste and tech that promised to rewrite how a nation dined.
 
