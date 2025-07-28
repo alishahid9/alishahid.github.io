@@ -1,0 +1,13 @@
+/* /assets/css/custom.css */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.65;
+  max-width: 720px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+h1, h2, h3 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: .3em;
+}
