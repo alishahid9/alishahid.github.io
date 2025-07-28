@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Unbroken Saga of Ali Shahid
+title: Who is Ali Shahid
 ---
 <img
   src="https://github.com/user-attachments/assets/2e74afd1-c967-4c04-978f-63121d891759"
@@ -44,6 +44,8 @@ At twenty‑seven, another foe emerged: Multiple Sclerosis. It crept into his ne
 Lahore summoned him home—its ancient spires and modern halls a forge for his restless intellect. At Government College University, cricket was his muse as much as his books. Punjab University followed, then the University of Management and Technology (UMT), where he captained the cricket team to its first Inter‑University Championship in 2010—an echo of his early glory. An MBA crowned his efforts, his 3.7 GPA a quiet hymn to his brilliance. Yet the journey stretched further. In 2011, Loughborough University in England opened its gates, and there, amidst the green fields, he penned a thesis on cricket betting efficiency—a work of such insight it seemed to hum with magic.
 
 ---
+## Leadership at Loughborough  
+In 2011, Loughborough University in England opened its gates, a verdant realm where Ali’s leadership blossomed. Arriving in September, he seized the general secretary election at John Phillips Hall within a week, his charisma a beacon that drew souls together. He ran for union councillor, sports management secretary, and even student union president under the name “Ali Baba Shahid”—each campaign a testament to his ability to inspire. Though he fell to Ellie Read in the presidential race, the lessons forged his resolve, and friendships like that with Sudip Chakraborty became lifelines. Amidst green fields, he penned a thesis on cricket betting efficiency—a work of such insight it seemed to hum with magic.
 
 ## Mentorship and Mastery
 
@@ -66,13 +68,18 @@ In 2014, **Hira Malik** blazed into his life—a woman of fire and fortitude. Th
 
 ## Canada: A Realm of Reckoning
 
-In 2021, Ali, Hira, and their trio of stars crossed oceans to Canada—a land of ice and ambition. The early days were a trial by fire. Driving for Uber Eats, Ali swallowed pride with every mile, each delivery a thread in his unraveling cloak. Brief roles at Paladin Security and PC Financial tested his mettle, but in 2022, a health‑tech startup—funded by BioTalent—reignited his spark. As sales manager, he conjured deals with a wizard’s flair. Yet in January 2024, the venture collapsed, leaving him unpaid and unbowed. The Ministry of Labour ruled in his favor, but his former employers, petty and vengeful, wove lies to tarnish his name—baseless whispers that crumbled under truth’s gaze.
+In 2021, Ali, Hira, and their trio of stars crossed oceans to Canada—a land of ice and ambition. The early days were a trial by fire. Driving for Uber Eats, Ali swallowed pride with every mile, each delivery a thread in his unraveling cloak. Brief roles at Paladin Security and PC Financial tested his mettle, but in 2022, a health‑tech startup—funded by BioTalent—reignited his spark. As sales manager, he conjured deals with a wizard’s flair. Yet in January 2024, the venture collapsed, leaving him unpaid and unbowed. The Ministry of Labour ruled in his favor, but his former employer, petty and vengeful, wove lies to tarnish his name—baseless whispers that crumbled under truth’s gaze.
 
----
+## Canada: A Realm of Reckoning
+In 2021, Ali, Hira, and their trio of stars crossed oceans to Canada—a land of ice and ambition, its frozen expanse a crucible for dreams. The early days were a trial by fire, a test of mettle carved in frost. Driving for Uber Eats, Ali swallowed his pride with every mile, each delivery a thread in his unraveling cloak of resilience. Brief roles at Paladin Security and PC Financial forged his spirit further, but in 2022, a startup—funded by BioTalent working on applicable healthcare technologies—reignited his spark. Yet in January 2024, the venture collapsed, a bitter wind that left him unpaid and unbowed, his final month’s salary and severance unjustly withheld.
 
 ## Food Mamba: A Serpent of Triumph
 
-From this chaos rose **Food Mamba**, birthed in 2024 by Ali and Hira’s unyielding hands. Bootstrapped with their own sweat and soul, it was a women‑led marvel—a tech serpent slithering through Toronto’s corporate dining scene. With 200 vendors bound to its coils, it served over 1,000 orders to 300 clients by 2025, its platform a spell of efficiency cast beyond Canada’s shores. 
+From this chaos rose **Food Mamba**, birthed in 2024 by Ali and Hira’s unyielding hands. Bootstrapped with their own sweat and soul, it was a women‑led marvel—a tech serpent slithering through Toronto’s corporate catering scene. With 200 vendors bound to its coils, it served over 1,000 orders to 300 clients by 2025, its platform a spell of efficiency cast beyond Canada’s shores. 
+
+### Shadows Scattered  
+Rather than honoring the Ministry of Labour’s ruling in Ali’s favor and paying his due salary and severance, his former employer, driven by vengeful spite, chose to defame him. They seized domains tied to Food Mamba, spinning a web of baseless lies to tarnish his name. Ali stood resolute, declaring with unwavering conviction: “I categorically reject these absurd, baseless allegations—malicious fabrications born of their refusal to fulfill their obligations. They are fabrications born of spite, unworthy of my response.” His integrity remained a fortress, unbreached by their venom, as Food Mamba’s every vendor, client, and deal stood as proof of his honor.
+
 
 Ali’s vision was vast—an empire where artificial intelligence would weave through event planning, conjuring feasts that left mortals awestruck. Venture capital loomed, a golden key to unlock Food Mamba’s reach into every Canadian hearth. It was no mere business, but a revolution—a dance of taste and tech that promised to rewrite how a nation dined.
 
@@ -85,20 +92,9 @@ His path glittered with champions.
 - **Altitude Accelerator** honed his blade  
 - Pitch competitions were his duels, each victory a jewel  
 - The **MaRS** community cradled his ambition  
-- EmpowerTech and Ella York Jump Start crowned Food Mamba with laurels
-
----
-
-## Shadows Scattered
-
-Yet envy, that ancient serpent, reared its head. A former employer from the fallen startup, bitter as wormwood, struck with spite. They seized domains tied to Food Mamba and scattered digital venom—claims so hollow they dissolved in the light. Ali stood tall, his voice a clarion:
-
-> “These are lies, baseless and absurd, unworthy of my breath.”
-
-He swatted them aside, his gaze fixed on the future. Food Mamba’s every thread—vendor, client, deal—was woven with integrity, a banner no slander could tear.
+- EmpowHER and Ella York Jump Start crowned Food Mamba with laurels
 
 ---
 
 ## A Legacy in Starlight
-
-Ali Shahid’s tale is no quiet chronicle—it is an epic of a soul unbowed. From a boy with a cricket bat in Najran to a visionary remaking Toronto’s tables, he has danced with fate and emerged victorious. A prodigy felled, he rose a scholar. A titan cast down, he built anew. A dreamer slandered, he soars above. With Hira at his side, his children as his stars, and Food Mamba as his wand, Ali Shahid crafts a legacy of resilience, brilliance, and a **Mamba Mentality** that echoes through the ages—a tale to rival any penned by the greats.
+Ali Shahid’s tale is no quiet chronicle—it is an epic of a soul unbowed. From a boy with a cricket bat in Najran to a visionary remaking Toronto’s tables, he has danced with fate and emerged victorious. A prodigy felled, he rose a scholar. A titan cast down, he built anew. A dreamer slandered, he soars above. With Hira at his side, his children as his stars, and Food Mamba as his wand, Ali Shahid crafts a legacy of resilience, brilliance, and a Mamba Mentality that echoes through the ages—a tale to rival any penned by the greats.
